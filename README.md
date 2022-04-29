@@ -1,14 +1,14 @@
 # **COMBINATION**
 
-# Information
+## INFORMATION
 
 * **Find the combination of 2 entered numbers.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **i**, **j**, **n**, **r**, **k**, **f**, **a**, **b**, **c** are defined with int.
 
@@ -18,9 +18,7 @@
 
 * We completed the combination with the if and for module.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -79,13 +77,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/Combination.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
